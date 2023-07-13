@@ -1,0 +1,75 @@
+Tender
+tender
+Auction
+auction
+Empanelment
+empanelment
+EOI-Expression Of Interest
+eoi-expression of interest
+EXPRESSION OF INTEREST
+expression of interest
+RFP-request for proposal
+rfp-request for proposal
+REQUEST FOR PROPOSAL
+request for proposal
+RFQ-request for Quotation
+rfq-request for quotation
+REQUEST FOR QUOTATION
+request for quotation
+Haraji
+haraji
+निविदा
+ई-निविदा
+Nivida
+nivida
+NIT-notice inviting Tender
+nit-notice inviting tender
+NIQ-notice inviting Quotation
+niq-notice inviting quotation
+NOTICE INVITING QUOTATION
+notice inviting quotation
+e-NIT
+e - NIT
+E - NIT
+E-NIT
+e-nit
+E-Nit
+E-procure
+e-procure
+E-PROCURE
+E-Procure
+E-PROCUREMENT NOTICE
+E-PROCUREMENT
+Procure
+PROCURE
+procure
+Quotation
+quotation
+CORRIGENDUM
+Corrigendum
+corrigendum
+e-Tenders
+e-tenders
+E-TENDERS
+e-tender
+e-Tender
+e-Tender Notice
+E-TENDER
+E-TENDER"
+E-tender
+Expression of Interest-cum-Request
+for proposal
+(R.F.P.)
+Name Of Work
+Name of Work
+Item of Work
+कार्य का नाम
+कार्य की विवरणी
+Tender Name
+NOTICE INVITING E-TENDER
+Tender Cost
+EMD
+Details of Tender
+ई-टेंडरिंग
+टेंडर
+E-टेंडर
